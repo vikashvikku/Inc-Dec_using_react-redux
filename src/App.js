@@ -9,7 +9,6 @@ const App = () => {
 
   return (
     <>
-      <h1> Welcome to Redux</h1>
       <div className="container">
         <h1>Increment/Decrement Counter</h1>
         <h4>Using React and Redux</h4>
